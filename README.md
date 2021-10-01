@@ -18,6 +18,8 @@
   <li> Setelah itu Screenshot hasil output yang dikeluarkan dan masukkan gambar Screenshot tersebut kedalam README</li>
 
   <li> Add file program tadi dan README </li>
+  <li> Lalu commit dengan pesan "First submission"</li>
+  <li> Setelah itu push kembali ke repository kalian</li>
   <li> Pull request kedalam repository GDSC yang sudah anda fork tadi </li>
 
 </ul>
