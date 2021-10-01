@@ -15,10 +15,11 @@
     Alasan ingin masuk GDSC : <Alasan>
   ```
 
-  <li> Setelah itu Screenshot hasil output yang dikeluarkan dan masukkan gambar Screenshot tersebut kedalam README</li>
-
-  <li> Add file program tadi dan README </li>
-  <li> Lalu commit dengan pesan "First submission"</li>
+  <li> Setelah itu Screenshot hasil output yang dikeluarkan dan masukkan gambar Screenshot tersebut kedalam file markdown bernama Identitas.md</li>
+  <li> Buat folder dengan format Nama_NIM </li>
+  <li> Masukkan file markdown dan program kedalam folder tersebut </li>
+  <li> Add folder tersebut ke dalam staging </li>
+  <li> Lalu commit dengan pesan "First submission by < Nama kalian > "</li>
   <li> Setelah itu push kembali ke repository kalian</li>
   <li> Pull request kedalam repository GDSC yang sudah anda fork tadi </li>
 
