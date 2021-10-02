@@ -1,0 +1,1 @@
+![Screenshot](https://github.com/wilsongregoryy/Git-Introduction/blob/main/Wilson%20Gregory_ITB/screenshot.jpg?raw=true)
