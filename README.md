@@ -19,6 +19,7 @@
   <li> Buat folder dengan format Nama_Univ </li>
   <li> Masukkan file markdown dan program kedalam folder tersebut </li>
   <li> Add folder tersebut ke dalam staging </li>
+  <li> Letakkan folder tersebut sejajar dengan file README.md</li>
   <li> Lalu commit dengan pesan "First submission by < Nama kalian > "</li>
   <li> Setelah itu push kembali ke repository kalian</li>
   <li> Pull request kedalam repository GDSC yang sudah anda fork tadi </li>
